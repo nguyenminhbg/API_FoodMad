@@ -1,0 +1,8 @@
+E:\Edutalk\API\FoodMad.API\FoodMap_Model\bin\Debug\netcoreapp3.1\FoodMap_Model.deps.json
+E:\Edutalk\API\FoodMad.API\FoodMap_Model\bin\Debug\netcoreapp3.1\FoodMap_Model.dll
+E:\Edutalk\API\FoodMad.API\FoodMap_Model\bin\Debug\netcoreapp3.1\FoodMap_Model.pdb
+E:\Edutalk\API\FoodMad.API\FoodMap_Model\obj\Debug\netcoreapp3.1\FoodMap_Model.csproj.CoreCompileInputs.cache
+E:\Edutalk\API\FoodMad.API\FoodMap_Model\obj\Debug\netcoreapp3.1\FoodMap_Model.AssemblyInfoInputs.cache
+E:\Edutalk\API\FoodMad.API\FoodMap_Model\obj\Debug\netcoreapp3.1\FoodMap_Model.AssemblyInfo.cs
+E:\Edutalk\API\FoodMad.API\FoodMap_Model\obj\Debug\netcoreapp3.1\FoodMap_Model.dll
+E:\Edutalk\API\FoodMad.API\FoodMap_Model\obj\Debug\netcoreapp3.1\FoodMap_Model.pdb
